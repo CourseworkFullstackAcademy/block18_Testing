@@ -33,7 +33,7 @@ A shopping cart checkout feature that allows a user to check out as a guest (wit
 
 2. When a user clicks checkout with an empty shopping cart, they should be shown a message that says "Please at least one item to your cart to check out. Here hare some great deals we have to choose from! (Show some deals of popular products)"
 
-3. When a user clicks log in after clicking checkout, give the option to log in with email and password or to log in with Google.
+3. When a user clicks log in after clicking checkout, give the option to log in with email and password or to log in with Google and give option to stay logged in or to save this device or browser.
 
 4. When a user logs in  and has credit card and shipping address info saved, give option to use this instead of typing it in again.
 
